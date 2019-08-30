@@ -1,0 +1,21 @@
+{
+  "hi": "./hello1.mp3",
+  "hello": "./notresponding.mp3",
+  "yes" : "./name.mp3",
+  "ya" : "./name.mp3",
+  "yeah" : "./name.mp3",
+  "I can hear you" : "./name.mp3",
+  "what is your name": "./name.mp3",
+  "my name is" : "./whereufrom.mp3",
+  "I am from" : "./whereunow.mp3",
+  "Bangalore" : "./isitcool.mp3",
+  "I am in" : "./isitcool.mp3",
+  "cool" : "./howudoin.mp3",
+  "great" : "./dancewithme.mp3",
+  "bad" : "./liveyourlife.mp3",
+  "Joey" : "./thisisme.mp3",
+  "Diksha" : "./Deeksha.mp3",
+  "Bee" : "./iamhere.mp3",
+  "bee" : "./iamhere.mp3",
+  "Deeksha" : "./Deeksha.mp3"
+}
